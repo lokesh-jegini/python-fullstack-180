@@ -21,7 +21,7 @@ print(number1 // number2)
 #based on the how many input required from user we decide the number of variable we need to declare
 base=20
 height:30
-results=1/2*(20*30)
+results=1/2*(20*30)#loki
 print(results)
 #calculate age in days
 age=25
