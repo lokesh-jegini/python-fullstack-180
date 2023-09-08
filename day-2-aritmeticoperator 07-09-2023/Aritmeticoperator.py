@@ -4,7 +4,7 @@
 number1 = 10
 number2 = 20
 print(number1 + number2)
-# - Subtraction (difference of two numbers)
+# - Subtraction (difference of two numbers) 
 print(number1 - number2)
 # * Multiplication (product of two numbers)
 print(number1 * number2)
