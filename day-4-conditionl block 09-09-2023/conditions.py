@@ -47,3 +47,20 @@ if(electricunits != ""):
                print(finalresult)
 else:
     print("enter valid units")
+#progrma-5
+#enter alphabet to show words
+alphabet=input("enter alphabet from a to f")
+if(alphabet=="a"):
+    print("a for apple")
+elif(alphabet=="b"):
+    print("b for bag")
+elif(alphabet=="c"):
+    print("c for cat")
+elif(alphabet=="d"):
+    print("d for dog")
+elif(alphabet=="e"):
+    print("e for elephant")
+elif(alphabet=="f"):
+    print("f for fan")
+else:
+   print("please enter a valid alphabet")
