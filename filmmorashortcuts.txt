@@ -1,0 +1,22 @@
+Two dimensional pattern-By using Nested Loops
+Outer loop-row
+Inner Loop -Column
+
+Why we use end="" Inside print function
+
+How we Know when we use forloop and when we use whileloop
+
+----------------------------------
+why i am feel difficul to record a youtube video (how to over come this patter to record the youtube videos)
+1)first prepare thumnail for video the video why we are explaning
+2)i am thinking when i record whil fan run that sound will capture ani wan to chakc that
+3)even for expain a topic also (where to start where to end ) write script clearly
+4)timestampls for each and every topic
+5)while upad youtube video default content like copy right
+6)end cards with subscription
+7)how much time required for each and every topic for record and edit and export
+------------------
+during editing time want to focus on the shortcut keys
+
+how to decreate the time line size for navivagtion for editing the clips
+

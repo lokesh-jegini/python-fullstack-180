@@ -1,0 +1,89 @@
+< -- this symbol is used when we move from left to right direction on array or string data type
+> -- this symbol is used when we move from rigth to left direction on array or string data type
+lengthvalue=len(data)-1  #length always start from one but index start from o but we are acess thought the index so we remove one value
+return key word we used inthe block not only inthe functions
+
+find --if no string it will return -1
+index --if no string it will return error
+
+for each and every data type we have inbuild functions (now we are learning how to use inbild function)
+we have inbild function to eveydata type (we learn from a to z we allways pass aruguments to the the inbild functions)
+how many arugument we want to send
+what type we need to send wether number or srting or any other types (how we know esily)
+
+method -- we call 
+userd define function difference
+
+concadination we use "lokesh"+{data}+"mahi" 
+concadination easy methos print(f"a={}") {data}--we get value as output
+a=10
+b=20
+c=30
+print("a={a},b={b},c={c}".format(a,b,c)) 
+print("a={2},b={1},c={3}.format(a,b,c)") 
+codingbat
+colorcode for variable 
+srting
+keyword
+-----------------------------------------------------------
+method
+definition
+syntax
+Note: All string methods returns new values. They do not change the original string.
+total 46 to 50 methods are present
+#staring datatype
+data=lokesh
+Inbuild function vs In build method
+---------------------------------
+print()#inbuild function
+data.count()
+
+below thing desctibed about syntax
+---------------------
+string.count(value, start, end)
+
+1)some methods take the aruguemnts
+2)some are not taking
+3)if take how many aruguments it will take
+4)how many are required how many are optional ,if they are optional what is the default vzlue for that optional
+5)uses of each arugument
+6)data type of each arugument
+7)after execute the the method what is the output.
+----------------
+learning type
+1)method belong to which data type
+2)definition of method (here described uses of particular function)
+3)syntax i writn above
+4)how we track every details through vsstudio
+
+
+---------------
+vs studion suggest arugument how may required seperated with comma operator and data type alos in the object format
+in vs studio method symbol is Y rambos symbol
+--------------
+difference between optional vs required
+print(a.isidentifier()) dot to dot we are filtring the values it move left to right forward direction
+if the method is start with  is that is checking condition
+x = txt.rfind("casa") single alpha or word
+-----------------
+my self i understan wrong and i confused 
+txt = "banana" (only we are moving positive direction) her we did not move any negative direction
+
+x = txt.rjust(20, "O")
+----------------
+rjust(20, "O")when it come to right i am ubderstaning in the reverse direction getting confusion
+ljust() i am confusion -->l means always we are reading in the one direction left to right
+--------------------
+txt = ".....banana,,,,,ssqqqww....."
+
+x = txt.rstrip(",.qsw")
+
+print(x)
+--------------
+difference between 1)strip both directions
+2)lstrip left to right
+3)rstrip right to left
+
+note index position alway positive (for or is hight)
+for l is small first occurance
+
