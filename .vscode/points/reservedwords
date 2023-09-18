@@ -1,0 +1,21 @@
+in pyhton evey line is written in the samll letters (except True,False,None)
+each and evey programing have reserved words are present
+True,False,None -->(entire pyhton constructed with this 33 reserved words)
+learning python is understad all this keywords (in js we use null in python we use None)
+n python reserved words and inbuid functions are different
+resrved words:- if, else, for, while, def, class, import, return, True, False, None, and others.
+predefine functions:print(), len(), input(), range(), abs(), sum(), max(), min(), type(),
+Reserved words are used to create new structure (this are used to constructour own logic)
+predefine functions are used to just call particular predefine function and use in our programing language.
+      for predefine function allready structure created by the python language developer 
+	  
+------------how to find difference between predefine function and keyword----------
+1)predefine function is represet with pranthities eg:print()
+2)key words did not consit any paranthities
+--------------------
+reserved words :-represent meaning and some functionlaity (for each and every word have differnt work)
+(do while and swith is not presnt in the pyhton)
+(catch is not present in the python)
+import keyword
+print(keyword.kwlist)
+

@@ -86,4 +86,45 @@ difference between 1)strip both directions
 
 note index position alway positive (for or is hight)
 for l is small first occurance
+------------------strings-------------------------18-09-2023-------
+A="lokesh" -->string
+Strings acts like array when we want to acess elements by using index values (like each and every alphabet)
+eg= A.[0]
+Concatenating strings (+,*)
+a = "Hello"
+b = "World"
+c = a + " " + b  # Concatenating strings
+
+# Accessing the variables directly
+print(a)  # Output: Hello
+print(b)  # Output: World
+print(c)  # Output: Hello World
+
+# Using variables inside a string (f-string) on that time we use curly braces
+e = f"jegini {b}"  # Note the f before the string when we use curly braces we did not use plus(+)symbol
+print(e)  # Output: jegini World
+
+e = "jegini" + b  # Removed curly braces around 'b'
+print(e)
+combination 
+1)adding variables c = a+ b 
+2)varibe and sting seperately e = "jegini" + b
+3)variable inside string f"jegini {b}" -->when we use curly braces we did not use plus(+)symbol
+
+in slice operator place i am confusion
+-------------------------------------
+print(b[2:6]) end-1 (up to 5 it will print here index is zero)
+				 
+				 start, start + 2 -->start means current index position (from the above example) 2 is the index value
+				 
+				 --------
+				 end value always (n-1)			 
+				 end value will not include with the stepvalue claculation
+				 start vlaue only include with the the stepvalue claculation
+				 end value is used for check the range (for priting in between the vlaues)
+-------------------------------------------------------------------
+inbuild properties and mehods
+-----------------------------
+
+
 
