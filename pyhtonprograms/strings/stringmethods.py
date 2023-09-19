@@ -10,3 +10,5 @@ txt = "Hte\tl\tl\to"
 x=txt.expandtabs(2)
 b=data.find("new")
 print(b)
+data.capitalize()
+data.find()
