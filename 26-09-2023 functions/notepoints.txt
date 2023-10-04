@@ -1,0 +1,18 @@
+why i am confunsion on the variable concept
+in variable concept where i am confunsion
+
+note point code is executed line by line in any programing language in the functions only  line by line executin eomple it come from starting again for execution
+def sum():
+    a=10
+    b=20
+    add=a+b
+    print(add)
+sum()
+
+// variable concept
+varibale are stactic and dynamic
+local and global variables
+to the varibale we assign values()
+update values
+we can acess values
+
